@@ -1,5 +1,10 @@
 # Changelog
 
+## Development Build: v6.0.0-rc4+dev228
+- 'Create test'
+- See: <https://github.com/nasa/cFE/pull/3>
+
+
 ## Development Build: v6.0.0-rc4+dev223
 - 'Fix #1396, do not use intmax_t/uintmax_t types'
 - 'Fix #1398, separate bind and listen calls for streams'
